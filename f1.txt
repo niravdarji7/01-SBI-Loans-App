@@ -12,3 +12,5 @@ String name ="ashokit";
 boolean status = false;
 
 int x=30;
+
+int a=10;
