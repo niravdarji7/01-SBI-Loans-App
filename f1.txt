@@ -1,3 +1,7 @@
 Hii 
+//Task -02
+public void m2() {
+	//logic
+}
 good morning ...
 How are you ?
